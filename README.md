@@ -4,7 +4,8 @@
 
 ## iOS快捷指令使用方案：
 - 上传iOS文本剪切板到云：https://www.icloud.com/shortcuts/67a17f413a794caab014e6b357a46382
-
+- 获取云剪切板文本写入iOS系统剪切板：https://www.icloud.com/shortcuts/ab6d6df85a0540458b63e4de3a515bf8
+- 获取云剪切板图片写入iOS系统剪切板https://www.icloud.com/shortcuts/6ca90baac2914968bc167a71fcd9d6f7
 
 ------------------------------------------------------------------------
 
